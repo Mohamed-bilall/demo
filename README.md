@@ -5,6 +5,8 @@
 
 This project is a simple HTML-based student registration form. It includes various input fields to capture personal and academic information from students. The form provides fields for basic details like name, email, and phone number, as well as checkboxes for hobbies, qualifications, and courses applied for.
 
+![BACK GROUNG](https://github.com/user-attachments/assets/62353368-aa31-452a-a383-06a2693843b3)
+
 ## Features
 
 - **Personal Information**: Capture first name, last name, email ID, mobile number, gender, date of birth.
