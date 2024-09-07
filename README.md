@@ -5,7 +5,6 @@
 
 This project is a simple HTML-based student registration form. It includes various input fields to capture personal and academic information from students. The form provides fields for basic details like name, email, and phone number, as well as checkboxes for hobbies, qualifications, and courses applied for.
 
-![BACK GROUNG](https://github.com/user-attachments/assets/62353368-aa31-452a-a383-06a2693843b3)
 
 ## Features
 
@@ -21,9 +20,9 @@ This project is a simple HTML-based student registration form. It includes vario
 - `index.html`: The main HTML file containing the registration form.
 - `bilalinput.css`: (Assumed) CSS file for styling the form.
   
-```
-<h1> hello</h1>
-```
+
+
+
 ## Installation
 
 To view the form, simply open the `index.html` file in a web browser. No additional installation is required.
